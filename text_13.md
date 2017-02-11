@@ -1,8 +1,1 @@
-- wartungsarme Technik
-- geringe Investition
-- kostengünstiger Betrieb
-- einfach Erweiterbar
-- unabhängig vom
-  Internetanbieter
-- aktive Unterstützung durch 
-  eine große Gemeinschaft
+Sie benötigen lediglich einen Internetanschluss mit einer freien Netzwerkbuchse an einem Internet-Router und eine 24/7 verfügbare Steckdose zur ununterbrochenen Stromversorgung. Kleine Ladenlokale ohne Besonderheiten wie z. B. ein verwinkelter Grundriss sind im Aufwand auf dem gleichen Level wie die Installation im privaten Zuhause.
