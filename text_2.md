@@ -1,0 +1,1 @@
+Da Geräte sich diese SSID merken, muss der Kunde oder Gast diese nur ein einziges Mal manuell auswählen. Schon beim nächsten Besuch (egal wo sich FF-Router befinden) verläuft die Anmeldung ohne Zutun des Benutzers.

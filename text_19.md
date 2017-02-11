@@ -1,0 +1,1 @@
+Außer für die Anschaffung entstehen keine weiteren Kosten. Natürlich wünschen wir uns, dass ein Gewerblicher Anbieter sich an den Kosten der Infrastruktur beteiligen. Sei es durch einmalige Spende oder durch einen Dauerauftrag. Das ist aber keine Voraussetzung!

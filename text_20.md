@@ -1,0 +1,1 @@
+Sie haben Interesse an einer Vorstellung des Konzepts in Ihrem Haus? Fraktion? Verwaltung? Projektgruppe? Interessengruppe? Kontaktieren Sie uns! Wir kommen gerne zu Ihnen, stellen das Projekt vor und stehen Rede und Antwort.
