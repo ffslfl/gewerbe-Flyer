@@ -1,24 +1,24 @@
 Freifunk ist für jeden möglich da wir ein offenes Netz bauen.
 
-- Bäckerei oder Metzgerei 
+- Bäckereien oder Metzgereien 
   mit Gastbereich 
-- Bistro 
-- Imbiss 
+- Bistros 
+- Imbisse 
 - Kneipen und Gaststätten 
-- Restaurant 
-- Hotel 
-- Friseur 
-- Sonnenstudio 
-- Arztpraxis 
-- Kanzlei 
+- Restaurants 
+- Hotels 
+- Friseure 
+- Sonnenstudios 
+- Arztpraxen 
+- Kanzleien 
 - Einzelhandel 
-- Werkstatt 
-- Möbelhaus 
+- Werkstätten 
+- Möbelhäuser
 - Temporär bei Veranstaltungen 
-- Kongresszentrum 
-- Bibliothek 
-- Jugendherberge 
-- Pfarrheim 
+- Kongresszentren 
+- Bibliotheken
+- Jugendherbergen 
+- Pfarrheime
 - Wartebereiche bei Behörden 
   und Verwaltungen 
-- Kleingärtnerverein 
+- Kleingärtnervereinen 
