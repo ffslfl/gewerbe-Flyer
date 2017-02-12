@@ -1,6 +1,9 @@
 - auf unserer Homepage
 - an unseren Stammtischen 
-  die unser Wissen verbreiten
+  auf denen wir unser Wissen 
+  preisgeben und jeden Gast 
+  unterstützen Freifunker 
+  zu werden
 - per E-Mail
-- via IRC
+- via IRC und Matrix
 - telefonisch (siehe Visitenkarte)
