@@ -1,27 +1,27 @@
 - Durch die interne Firewall und dem 
   verwendeten VPN-Tunnel ist der 
-  FF-Router vom eigenen Netz entkoppelt
+  Router vom eigenen Netz entkoppelt
   Ein Zugriff auf andere Rechner des 
   eigenen Netzes ist nicht möglich. 
 - Der eigentliche Internetzugriff erfolgt 
   durch den Tunnel über Server des 
-  Freifunk Nord Benutzer verwenden 
-  dabei eine IP-Kennung unserer 
-  Gateways, nicht die des 
+  Freifunk Nord Netzes und verwenden 
+  dabei eine IP-Adresse unserer 
+  Gateways. Nicht die des 
   Anschlussinhabers. 
-- Der Stromverbrauch der FF-Router 
-  liegt je nach Modell bei 3 bis 10 Watt. 
+- Der Stromverbrauch der Router 
+  liegt je nach Modell ab 1,7 Watt. 
   Weitere Kosten gibt es nicht. 
 - Praktisch zu vernachlässigende 
   Einstiegskosten, keine mtl. Kosten. 
 - Sie unterstützen die Idee eines 
   freien Netzes 
-- Die Bandbreite, welche die Benutzer 
-  der FF-Router max. nutzen können, 
+- Die Bandbreite, welche die Gäste im 
+  Freifunk-Netz max. nutzen können, 
   kann begrenzt werden. 
   Ihr eigentlicher Internet-Anschluss 
-  hat für Sie die eingestellte, garantierte 
-  Bandbreite 
+  behält die für Sie eingestellte,  
+  Bandbreite
 - Wir unterstützen Sie kostenfrei und 
   ehrenamtlich bei der Planung und dem 
   Betrieb der Systeme 
@@ -29,13 +29,12 @@
   Ihr Mitarbeiter müssen keine Voucher 
   ausgeben, verkaufen oder bei Problemen 
   den Kunden unterstützen. 
-- Keine zwangsweise Umleitung zu einer 
-  Portalseite (Anmeldehemmnis,
-  Rückfragen an Ihre Mitarbeiter) 
+- Die Gäste können direkt und ohne 
+  Vorschaltseite ins Netz 
 - Freies Internet ohne zeitliche 
-  Begrenzung 
+  Begrenzung
 - Nahezu freie Wahl des Routernamens.
-  z. B. “FF-Schleswig-TresTomates”. 
+  z. B. “Schleswig-TresTomates”. 
   Der Namen erscheint so auf unserer 
   Hotspotkarte. 
 - Wettbewerbsvorteil gegenüber 
