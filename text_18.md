@@ -21,4 +21,4 @@ Freifunk ist für jeden möglich da wir ein offenes Netz bauen.
 - Pfarrheime
 - Wartebereiche bei Behörden 
   und Verwaltungen 
-- Kleingärtnervereinen 
+- Kleingärtnervereine 
