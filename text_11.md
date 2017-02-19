@@ -1,1 +1,1 @@
-Damit lösen Sie die Probleme, die dieses Vorhaben manchmal mit sich bringt.
+Wir haben einfache Antworten auf die Herausforderungen solcher Vorhaben.

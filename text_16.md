@@ -1,3 +1,3 @@
-Im obigen Bild erkennt man zwei FF-Router. Der erste hat einen Internet-Zugang über den hauseigenen Router. Der zweite hat mit dem ersten eine Mesh-Verbindung hergestellt. Beide senden die WLAN-Kennung (SSID) „nord.freifunk.net“ aus. Verbindet sich ein Benutzer mit dem FF-Router Nr. 2, dann wickelt dieser seinen Datenverkehr über den Router Nr. 1 ab.
-Die Anzahl der Router ist nur durch die Auslastung der WLAN-Kanäle, Speicher im FF-Router und CPU-Ressourcen im FF-Router begrenzt.
+Der erste hat einen Internet-Zugang über den hauseigenen Router. Der zweite hat mit dem ersten eine Mesh-Verbindung hergestellt. Beide senden die WLAN-Kennung (SSID) „nord.freifunk.net“ aus. Verbindet sich ein Benutzer mit dem Freifunk-Router Nr. 2, dann wickelt dieser seinen Datenverkehr über den Router Nr. 1 ab.
+Die Anzahl der Router ist nur durch die Auslastung der WLAN-Kanäle, Speicher im Freifunk-Router und CPU-Ressourcen im Freifunk-Router begrenzt.
 Dieses Netzwerk funktioniert über Etagen und Gebäudegrenzen hinweg. Mittels professioneller Technik können auch größere Plätze abgedeckt oder direkte Verbindungen zwischen Stadtteilen aufgebaut werden.
